@@ -7,8 +7,13 @@ repo_url: https://github.com/daihocmo/tieng-y
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn': 'guide.md'
-  - 'Tài nguyên': 'resources.md'
+  - 'Hướng dẫn': 
+    - 'Tự học Tiếng Ý': 'guide.md'
+  - 'Yomitan':
+    - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
+  - 'Tài nguyên': 
+    - 'Tài nguyên tự học': 'resources.md'
+    - 'Nội dung Tiếng Ý': 'recommendations.md'
  
 theme:
   palette:

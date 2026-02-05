@@ -1,6 +1,6 @@
-# Chào!
-
 ![welcome](img/study.png){:  style="display: block; margin: 0 auto; max-width: 100%; height:auto;" }
+
+# Chào!
 
 Đây là trang sẽ hướng dẫn bạn cách tự học Tiếng Ý chuẩn.
 
