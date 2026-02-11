@@ -6,7 +6,7 @@ Hướng dẫn này sẽ giải thích quá trình đơn ngữ hóa và tại sa
 
 ### Quá trình đơn ngữ hóa là gì
 
-"Quá trình đơn ngữ hóa" là khi bạn chuyển sang làm quen với từ điển đơn ngữ, thường với trợ giúp từ điển song ngữ. Từ điển đơn ngữ là từ điển định nghĩa các từ của ngôn ngữ được định nghĩa ở chính ngôn ngữ ấy. Ví dụ: Từ điển Oxford là từ điển Tiếng Ý đơn ngữ.
+"Quá trình đơn ngữ hóa" là khi bạn chuyển sang làm quen với từ điển đơn ngữ, thường với trợ giúp từ điển song ngữ. Từ điển đơn ngữ là từ điển định nghĩa các từ của ngôn ngữ được định nghĩa ở chính ngôn ngữ ấy. Ví dụ: Từ điển Treccani là từ điển Tiếng Ý đơn ngữ.
 
 ![](img/mono2.webp)
 

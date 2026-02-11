@@ -10,7 +10,7 @@ Có lẽ vấn đề không phải nằm ở những người học ấy, mà l�
 
 Khó có thể đạt được những mục tiêu như vậy chỉ với các phương pháp học ngoại ngữ truyền thống. Nhiều người "thất bại" vì thiếu vào một phần quan trọng, **immersion**, trong quá trình học tập. **Immersion** để chỉ việc nghe hoặc đọc nội dung của người bản ngữ dành cho người bản ngữ. 
 
-Ví dụ: Xem phim Đức không sử dụng phụ đề là một cách ta thực hiện immersion Tiếng Ý.
+Ví dụ: Xem phim Ý không sử dụng phụ đề là một cách ta thực hiện immersion Tiếng Ý.
 
 ## 1.2 Vấn đề của phương pháp học truyền thống
 
@@ -125,20 +125,13 @@ Mặc dù tiếng Ý và tiếng Anh không cùng nhánh (Ý là ngôn ngữ Rô
 
 Học các từ đồng gốc giữa tiếng Ý và tiếng Anh giúp người học có nền tảng tiếng Anh tiếp cận tiếng Ý nhanh hơn, nhất là trong kỹ năng đọc và nhận diện từ vựng. Ví dụ: *nation – nazione*, *family – famiglia*, *possible – possibile*, *education – educazione*. Tuy nhiên, tương tự như các ngôn ngữ Rôman khác, người học cần cảnh giác với các “false cognates”, chẳng hạn *eventually* (EN: “cuối cùng”) và *eventualmente* (IT: “có thể, trong trường hợp nào đó”). Việc kết hợp học cognates với kiểm tra ngữ cảnh sẽ giúp tránh nhầm lẫn và sử dụng từ chính xác hơn.
 
-Tài nguyên tự học gợi ý:
-
-* ThoughtCo: các bài viết về *Italian–English cognates* và *false friends*.
-* WordReference và Linguee: so sánh nghĩa, ví dụ thực tế song ngữ.
-* Sách nhập môn tiếng Ý cho người nói tiếng Anh (ví dụ: *Italian Made Simple*, *Practice Makes Perfect*).
-* YouTube: tìm với từ khóa “Italian cognates for English speakers” để học qua ví dụ trực quan.
-
 ## 2.2 Từ vựng
 
 Ở giai đoạn đầu, từ vựng là nền tảng quan trọng nhất. Ngữ pháp sẽ không giúp được nhiều nếu bạn không hiểu các từ xuất hiện trong câu. Vì vậy, trọng tâm của phần này là xây dựng một vốn từ đủ để bạn bắt đầu nhận diện ngôn ngữ khi đọc và nghe.
 
 Công cụ chính được sử dụng là **Anki**, một hệ thống flashcard lặp lại ngắt quãng giúp bạn ghi nhớ từ vựng và câu cơ bản theo thời gian. Tuy nhiên, cần nhấn mạnh rõ một điều: Anki chỉ là **công cụ hỗ trợ trí nhớ**, không phải là toàn bộ việc học Tiếng Ý. Nếu bạn chỉ học Anki mà không tiếp xúc với Tiếng Ý thật, thì bạn mới chỉ tiến bộ trong việc ôn tập thẻ Anki thôi, chứ khả năng Tiếng Ý vẫn chưa được cải thiện nhiều.
 
-Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là: [**ITA1K**]() (Kéo xuống là thấy nút Download).
+Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là: [**ITA1K**](https://ankiweb.net/shared/info/81140320) (Kéo xuống là thấy nút Download).
 
 ## 2.3 Ngữ pháp
 
